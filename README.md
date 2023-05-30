@@ -3,7 +3,7 @@
 用于个人在开发过程中遇到的问题记录与平时个人学习知识的总结与回顾。佛系更新中。。
 
 ### 若本文档所有图片仅用于自娱自乐，如有侵权，深感抱歉，请联系本人立刻删除。 ###
-http://pic.czj-xjq.top/nu-li-tian-keng.jpeg
+
 ![pic](http://pic.czj-xjq.top/nu-li-tian-keng.jpeg)
 ![pic](http://pic.czj-xjq.top/nu-li-tian-keng.jpeg)
 ![pic](http://pic.czj-xjq.top/nu-li-tian-keng.jpeg)
